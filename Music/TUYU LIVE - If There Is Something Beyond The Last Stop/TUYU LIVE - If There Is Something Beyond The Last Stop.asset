@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "bd851b99ac4241bc9836fef09851f88b"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU LIVE - If There Is Something Beyond The Last Stop"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU LIVE - If There Is Something Beyond The Last Stop.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b8918551bfad4c95a18ccb3806c61deb"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "And Thats Why I Cant Stop"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "And Thats Why I Cant Stop.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

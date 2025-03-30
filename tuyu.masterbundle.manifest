@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1548884524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa1eb506fc7ff088ebf32af4516fce47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tuyu/Im getting on the bus to the other world see ya!.mp3
+- Assets/Tuyu/Hide and Seek Alone.mp3
+- Assets/Tuyu/Still The Rain Falls.mp3
+- Assets/Tuyu/Faithful dog Hachi.mp3
+- Assets/Tuyu/And Thats Why I Cant Stop.mp3
+- Assets/Tuyu/TUYU LIVE - If There Is Something Beyond The Last Stop.mp3
+- Assets/Tuyu/Compared Child.mp3
+- Assets/Tuyu/TUYU LIVE - I'll Invite You to Unhappiness.mp3
+- Assets/Tuyu/Hope We Can Become Adults Someday.mp3
+- Assets/Tuyu/Goodbye To The Rock You.mp3
+- Assets/Tuyu/Under The Fragrant Sky.mp3
+- Assets/Tuyu/Rain Pattern.mp3
+- Assets/Tuyu/TUYU - Revolutionary Front MV.mp3
+- Assets/Tuyu/TUYU - How Dare You Try to Steal My Precious Thing MV.mp3
+- Assets/Tuyu/TUYU - Bathing in Rain MV.mp3
+- Assets/Tuyu/Even Though It Hurts I Love You.mp3
+- Assets/Tuyu/When the Morning Glory Falls.mp3
+- Assets/Tuyu/Under Kids.mp3
+- Assets/Tuyu/Demonish.mp3
+- Assets/Tuyu/What Kind of Ending Do You Want.mp3
+- Assets/Tuyu/Loser Girl.mp3
+- Assets/Tuyu/Can I Become The Sun.mp3
+- Assets/Tuyu/What if this isnt a slave.mp3
+- Assets/Tuyu/If There Is Something Beyond The Last Stop.mp3
+- Assets/Tuyu/Trapped In The Past.mp3
+- Assets/Tuyu/After All The Rain Falls.mp3
+- Assets/Tuyu/Even tears withered.mp3
+- Assets/Tuyu/TUYU - Compared Child (TUYU Remix) MV.mp3
+- Assets/Tuyu/Under Heroine.mp3
+Dependencies: []

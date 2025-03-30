@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "2bce4a96515f486e89a899f91fa70260"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Even Though It Hurts I Love You"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Even Though It Hurts I Love You.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

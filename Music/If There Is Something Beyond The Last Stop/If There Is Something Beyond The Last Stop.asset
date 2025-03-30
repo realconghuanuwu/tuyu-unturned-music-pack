@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "2afdfa2e87b845518369c79bbf4e3f3e"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "If There Is Something Beyond The Last Stop"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "If There Is Something Beyond The Last Stop.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

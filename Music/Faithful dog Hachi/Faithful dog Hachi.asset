@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "88e051eb5da84feb8e5adf3c0c2f3490"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Faithful dog Hachi"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Faithful dog Hachi.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "39aa6f7104b6411a8c16414e7188649d"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "When the Morning Glory Falls"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "When the Morning Glory Falls.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

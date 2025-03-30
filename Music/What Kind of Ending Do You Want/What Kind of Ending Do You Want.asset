@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "8f98bd16e40846f99f0d24302d18b9e2"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "What Kind of Ending Do You Want"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "What Kind of Ending Do You Want.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

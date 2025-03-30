@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "54b1dd0ea14c456d881ac1b2a18dfed7"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU - Compared Child (TUYU Remix) MV"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU - Compared Child (TUYU Remix) MV.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

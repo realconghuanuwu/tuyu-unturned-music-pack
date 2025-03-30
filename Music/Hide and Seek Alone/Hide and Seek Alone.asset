@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b13998b9e70c4fa8b2cad5c54ac43573"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Hide and Seek Alone"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Hide and Seek Alone.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

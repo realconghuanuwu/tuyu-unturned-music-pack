@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b15a841fbfd04efe8ba59bba06366495"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Loser Girl"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Loser Girl.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

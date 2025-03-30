@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "0c393ed0dd9b48af8e3ab926ca92f83b"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU - Revolutionary Front MV"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU - Revolutionary Front MV.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "60e8f156b2cb45fba0a74f66285bd8a2"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Can I Become The Sun"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Can I Become The Sun.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

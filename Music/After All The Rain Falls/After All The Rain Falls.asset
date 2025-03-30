@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "8d21154fb6b44837a03818ed2515c8c0"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "After All The Rain Falls"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "After All The Rain Falls.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "d48919dde9894fcbaeb549725b815135"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Demonish"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Demonish.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

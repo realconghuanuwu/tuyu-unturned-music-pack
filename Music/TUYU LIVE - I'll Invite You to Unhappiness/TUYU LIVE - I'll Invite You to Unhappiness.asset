@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "377b2f0f0194437286bf9685dd450043"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU LIVE - I'll Invite You to Unhappiness"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU LIVE - I'll Invite You to Unhappiness.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

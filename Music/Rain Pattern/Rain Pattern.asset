@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "be28f06775ee4a48aa7c8a20087e3051"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Rain Pattern"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Rain Pattern.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

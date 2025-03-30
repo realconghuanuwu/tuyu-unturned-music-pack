@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "7be112f8d2224c7993ff9d7931371229"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Under Kids"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Under Kids.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "4a20252b166247fcbec46a59b006c776"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Hope We Can Become Adults Someday"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Hope We Can Become Adults Someday.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

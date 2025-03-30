@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "39c709d45bd34a0f97dc2893e46b54a4"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Im getting on the bus to the other world see ya!"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Im getting on the bus to the other world see ya!.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "f200af3ea39d47ce9776fac93e15edba"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Goodbye To The Rock You"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Goodbye To The Rock You.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

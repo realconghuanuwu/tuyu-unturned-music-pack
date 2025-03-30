@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "5383d0eef6db42498d5885341b7a4151"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU - How Dare You Try to Steal My Precious Thing MV"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU - How Dare You Try to Steal My Precious Thing MV.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

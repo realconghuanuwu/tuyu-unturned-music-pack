@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b750291d5f3647899c387fddfa4bb199"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Compared Child"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Compared Child.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

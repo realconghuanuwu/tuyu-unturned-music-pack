@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "a90938cbb73b44d9968900df35f29eed"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "TUYU - Bathing in Rain MV"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "TUYU - Bathing in Rain MV.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

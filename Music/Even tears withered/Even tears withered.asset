@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "9dc68e754d644865a6869ee13218c11d"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Even tears withered"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Even tears withered.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

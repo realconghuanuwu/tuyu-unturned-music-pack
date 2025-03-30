@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "37ef73c2b7564745950132dc12d57326"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Under Heroine"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Under Heroine.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "70d874baab1d4617bb4e7506494d4dc2"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Trapped In The Past"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Trapped In The Past.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

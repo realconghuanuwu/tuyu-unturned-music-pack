@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "e00883f719654b17a8a51e79e7e7e2a8"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "What if this isnt a slave"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "What if this isnt a slave.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}

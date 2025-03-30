@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "5ac528a962e64188ab9fb86ebe6ba436"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "Still The Rain Falls"
+	"Song"
+	{
+		"MasterBundle" "tuyu.masterbundle"
+		"AssetPath" "Still The Rain Falls.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/@TUYU_official"
+}
